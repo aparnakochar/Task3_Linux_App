@@ -163,8 +163,7 @@ class _MainScreenState extends State<MainScreen> {
 // }
 
 // /*
-// logi ho gya mera kaam ye firebase vala? step by step copy karo okok mein chlta hu fir  okthik h thnku chal pagal kaam karo
-// karo abb dheere copy pa
+// 
 // String cmd;
 //   final _firestore = FirebaseFirestore.instance; 
 //   final _auth = FirebaseAuth.instance;
